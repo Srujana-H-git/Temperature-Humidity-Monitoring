@@ -1,6 +1,6 @@
-#Temperature and Humidity Sensor Using ESP32-WROOM
+#Temperature and Humidity Sensor Using ESP32-WROOM#
 
-#Project Overview
+#Project Overview#
 
 This project demonstrates how to use the ESP32-WROOM microcontroller to measure temperature and humidity using a DHT11 sensor. The ESP32 reads data from the sensor and displays it on a web interface, making it accessible from any device connected to the same network.
 
